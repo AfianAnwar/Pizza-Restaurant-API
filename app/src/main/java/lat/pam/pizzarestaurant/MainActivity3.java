@@ -98,7 +98,7 @@ public class MainActivity3 extends AppCompatActivity {
                 intent.putExtra("userName", userName);
                 intent.putExtra("city", city);
                 intent.putExtra("pizza", "Peperoni Pizza");
-                intent.putExtra("price", "Rp. 100.000");
+                intent.putExtra("price", "Rp. 80.000");
                 intent.putExtra("description", "Pepperoni pizza adalah pizza yang memiliki  topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda");
                 startActivity(intent);
             }
@@ -112,7 +112,7 @@ public class MainActivity3 extends AppCompatActivity {
                 intent.putExtra("userName", userName);
                 intent.putExtra("city", city);
                 intent.putExtra("pizza", "Spaghetti");
-                intent.putExtra("price", "Rp. 80.000");
+                intent.putExtra("price", "Rp. 50.000");
                 intent.putExtra("description", "Spaghetti merupakan salah satu dari varian pasta yang memiliki bentuk silinder tipis dan padat yang terbuat dari olahan gandum. Spaghetti telah menjadi makanan pokok tradisional penduduk Italia.");
                 startActivity(intent);
             }
@@ -126,7 +126,7 @@ public class MainActivity3 extends AppCompatActivity {
                 intent.putExtra("userName", userName);
                 intent.putExtra("city", city);
                 intent.putExtra("pizza", "Burger");
-                intent.putExtra("price", "Rp. 50.000");
+                intent.putExtra("price", "Rp. 35.000");
                 intent.putExtra("description", "Burger adalah makanan yang terbuat dari daging sapi yang dibentuk menjadi bentuk bulat dan digoreng. Burger biasanya disajikan dengan bahan tambahan seperti keju, tomat, selada, dan saus.");
                 startActivity(intent);
             }
@@ -140,7 +140,7 @@ public class MainActivity3 extends AppCompatActivity {
                 intent.putExtra("userName", userName);
                 intent.putExtra("city", city);
                 intent.putExtra("pizza", "Steak");
-                intent.putExtra("price", "Rp. 150.000");
+                intent.putExtra("price", "Rp. 100.000");
                 intent.putExtra("description", "Steak adalah daging sapi yang dipotong tipis dan digoreng. Steak biasanya disajikan dengan bahan tambahan seperti keju, tomat, selada, dan saus.");
                 startActivity(intent);
             }
